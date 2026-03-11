@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**prajaktasagavkar2091998/prajaktasagavkar2091998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Aarvi
 
-Here are some ideas to get you started:
+☁️ **AWS & Cloud Enthusiast**
+💻 **Database Engineer** with experience in **SQL and Tableau**
+⚙️ Currently learning **DevOps, AWS, and Python**
+🚀 Passionate about **Cloud Technologies, Automation, and Data Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--💼 Experience
+
+Database Engineer – Capgemini
+
+## 🛠️ Skills & Technologies
+
+* **Cloud:** AWS
+* **Database:** SQL
+* **Visualization:** Tableau
+* **Programming:** Python
+* **Tools:** Git, GitHub
+* **Concepts:** DevOps, Cloud Computing, Data Engineering
+
+---
+
+## 🌱 Currently Learning
+
+* AWS Cloud Services
+* DevOps Fundamentals
+  
+
+---
+
+## 📂 Projects
+
+* **AWS Cloud Practice Projects**
+* **SQL Data Analysis Projects**
+
+---
+
+## 🎯 Goals
+
+* Become a **Cloud & DevOps Engineer**
+* Build real-world **AWS projects**
+* Improve **automation and cloud architecture skills**
+
+---
+
+⭐ *Always learning and exploring new technologies in Cloud and Data Engineering.*
+
+
