@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hi there 👋 I'm Aarvi
-
 ☁️ **AWS & Cloud Enthusiast**
 💻 **Database Engineer** with experience in **SQL and Tableau**
 ⚙️ Currently learning **DevOps, AWS, and Python**
@@ -9,14 +7,13 @@
 
 --💼 Experience
 
-Database Engineer – Capgemini
+Database Engineer  and cloud Engineer– Capgemini
 
 ## 🛠️ Skills & Technologies
 
 * **Cloud:** AWS
 * **Database:** SQL
 * **Visualization:** Tableau
-* **Programming:** Python
 * **Tools:** Git, GitHub
 * **Concepts:** DevOps, Cloud Computing, Data Engineering
 
